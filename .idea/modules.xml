@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sensibull_Interview.iml" filepath="$PROJECT_DIR$/Sensibull_Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cucumber_BDD.iml" filepath="$PROJECT_DIR$/Cucumber_BDD.iml" />
     </modules>
   </component>
 </project>

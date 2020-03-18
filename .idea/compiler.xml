@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sensibull_Interview" />
+        <module name="Cucumber_BDD" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Sensibull_Interview" target="1.8" />
+      <module name="Cucumber_BDD" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
